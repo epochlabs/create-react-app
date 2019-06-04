@@ -222,7 +222,7 @@ module.exports = function(
   
   console.log(chalk.red('VERY IMPORTANT:'));
   console.log('This is a Epoch Labs fork');
-  console.log('Make sure to keeo this Fork always updated with lastest version of Create React App');
+  console.log('Make sure to keep this Fork always updated with lastest version of Create React App');
   console.log('https://facebook.github.io/create-react-app/');
   console.log();
   
